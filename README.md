@@ -5,7 +5,7 @@
 Hello, I'm Shubham Tade! I am a recent graduate eager to kickstart my career as a Data Scientist and Analyst. This repository houses my resume as I venture into the world of data analysis.
 
 ## About Me
-I have a solid educational background B.Tech Computer Scienece. During my studies, I have developed skills in like data analysis, Python (numpy, Pandas, Matplotlib, Scikit Learn), SQL, Machine Learning, Microsoft Advanced Excel, Microsoft Power BI. Though I am new to the field, I am enthusiastic and dedicated to learning and growing as a Data Analyst.
+I have a solid educational background B.Tech Computer Scienece. During my studies, I have developed skills in like data analysis, Python (numpy, Pandas, Matplotlib, Scikit Learn), SQL, Machine Learning, Deep Learning, Microsoft Advanced Excel, Microsoft Power BI. Though I am new to the field, I am enthusiastic and dedicated to learning and growing as a Data Analyst.
 
 ## How to Connect
 I am open to any opportunities or advice that can help me grow in this field. Feel free to contact me at shubhamgtade123@gmail.com or connect with me on https://www.linkedin.com/in/shubham-tade-522649239.
