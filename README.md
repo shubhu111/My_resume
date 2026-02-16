@@ -14,7 +14,7 @@ I hold a B.Tech in Computer Science and Engineering and currently work as an AI/
 - Visualization & Reporting: Power BI, Advanced Excel, Matplotlib, Seaborn
 - NLP & Generative AI: Text classification, NLTK, LLMs
 
-Currently, I’m expanding my expertise in Generative AI and Large Language Models (LLMs) to build adaptive, intelligent systems that bridge the gap between data and decision-making.
+Currently, I’m expanding my expertise in Agentic & Generative AI and Large Language Models (LLMs) to build adaptive, intelligent systems that bridge the gap between data and decision-making.
 ## Experience
 - AI/ML Engineer — PandoAI Solutions Pvt. Ltd. (Aug 2025 – Present)
 - Built scalable data pipelines and automated workflows to collect hospital datasets from multiple sources.
